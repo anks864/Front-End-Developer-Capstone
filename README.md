@@ -1,2 +1,2 @@
 # Front-End-Developer-Capstone
-Coursera Assignment: Booking a table on the Little Lemon website
+Coursera Assignment: Booking a table on the Little Lemon website, creating a frontend development for that
